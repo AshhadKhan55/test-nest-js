@@ -20,7 +20,7 @@ Before getting started, ensure you have the following software installed on your
 
    ```bash
    cd <project_directory>
-    yarn install
+    yarn
    
 #Configuration
 
